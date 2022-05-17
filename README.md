@@ -1,0 +1,1 @@
+Assuntos introdutórios ao Data Science: DataFrames, arrays, visualização de dados, etc.
